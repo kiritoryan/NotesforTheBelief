@@ -1,4 +1,4 @@
-# NotesforTheGospel
+# NotesforTheBelief
 
 ## 敬拜
 - [敬拜與聖靈運行 - 周巽光 牧師](/%E6%95%AC%E6%8B%9C/%E6%95%AC%E6%8B%9C%E8%88%87%E8%81%96%E9%9D%88%E9%81%8B%E8%A1%8C%20-%20%E5%91%A8%E5%B7%BD%E5%85%89%E7%89%A7%E5%B8%AB.md)
